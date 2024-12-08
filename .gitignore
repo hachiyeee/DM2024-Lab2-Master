@@ -1,0 +1,14 @@
+# Ignore Python virtual environment
+.venv/
+
+# Ignore data files
+*.bin.gz
+data/
+
+# Ignore logs and temporary files
+logs/
+*.log
+*.tmp
+
+# Ignore hidden system files
+.DS_Store
